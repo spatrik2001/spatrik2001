@@ -1,22 +1,16 @@
-# Loading... Oh wait, you are already here :smile:
+# Some information about me
+## Loading... Oh wait, you are already here :smile:
+
+Hi stranger, welcome to the circ... i mean, welcome to harmatosbikafing's github page.
+
+I'm a 19 years old Hungarian guy who is interested in programming and web development. My birthday is in 7th June.
+My hometown is Győr, which is in northwest Hungary and the capital of Győr-Moson-Sopron county.
+My goal is to settle down in a job which contains programming. 🤔
+In the current situation, I only know HTML and CSS, but if I have free time after school, I'm trying to improve my skills or knowledge about that. :angel:
 
 ![harmatosbikafing's github stats](https://github-readme-stats.vercel.app/api?username=harmatosbikafing&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harmatosbikafing&layout=compact&theme=dracula)](https://github.com/harmatosbikafing/github-readme-stats)
+## 🔭 I’m currently working on ...
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harmatosbikafing&repo=webpage&show_owner&theme=dracula)](https://github.com/harmatosbikafing/webpage)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harmatosbikafing&repo=webpage&show_owner&theme=dracula)](https://github.com/harmatosbikafing/github-readme-stats)
-
-<!--
-**harmatosbikafing/harmatosbikafing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harmatosbikafing&layout=compact&theme=dracula)](https://github.com/harmatosbikafing/webpage)
