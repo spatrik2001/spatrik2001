@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![harmatosbikafing's github stats](https://github-readme-stats.vercel.app/api?username=harmatosbikafing&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harmatosbikafing&layout=compact&theme=dracula)](https://github.com/harmatosbikafing/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harmatosbikafing&repo=webpage&show_owner&theme=dracula)](https://github.com/harmatosbikafing/github-readme-stats)
+
 <!--
 **harmatosbikafing/harmatosbikafing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
