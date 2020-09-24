@@ -1,6 +1,6 @@
 ## Loading... Oh wait, you are already here :smile:
 
-Hi stranger, welcome to the circ... i mean, welcome to harmatosbikafing's github page.
+Hi stranger, welcome to the circ... i mean, welcome to harmatosbikafing's github page. (which is basically a circus :circus_tent:)
 
 I'm a 19 years old Hungarian guy who is interested in programming and web development. My birthday is in 7th June.<br>
 My hometown is Győr, which is in northwest Hungary and the capital of Győr-Moson-Sopron county.<br>
