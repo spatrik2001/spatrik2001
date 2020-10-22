@@ -8,8 +8,8 @@
 [![Visual Studio](https://img.shields.io/badge/Editor-Visual_Studio-blue?style=flat-square&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![PyCharm](https://img.shields.io/badge/Editor-PyCharm-blue?style=flat-square&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 
-![Browser](https://img.shields.io/badge/BROWSER-Opera-292e33?style=flat-square&logo=google-chrome&logoColor=fff)
-![Browser](https://img.shields.io/badge/BROWSER-Chrome-292e33?style=flat-square&logo=opera&logoColor=fff)
+![Browser](https://img.shields.io/badge/BROWSER-Chrome-292e33?style=flat-square&logo=google-chrome&logoColor=fff)
+![Browser](https://img.shields.io/badge/BROWSER-Opera-292e33?style=flat-square&logo=opera&logoColor=fff)
 
 ### Skills and Learnings
 
