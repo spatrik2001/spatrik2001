@@ -1,4 +1,4 @@
-## Loading... Oh wait, you are already here :smile:
+## Loading... Oh wait, you are already here <img src="5176_thinking.gif">
 
 <img align="right" src="https://cbswire.dk/wp-content/uploads/2019/01/giphy-muppet.gif">
 
