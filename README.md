@@ -6,7 +6,6 @@
 [![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
 [![VSCode](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Visual Studio](https://img.shields.io/badge/Editor-Visual_Studio-blue?style=flat-square&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
-[![PyCharm](https://img.shields.io/badge/Editor-PyCharm-blue?style=flat-square&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 
 ![Browser](https://img.shields.io/badge/BROWSER-Chrome-292e33?style=flat-square&logo=google-chrome&logoColor=fff)
 ![Browser](https://img.shields.io/badge/BROWSER-Opera-292e33?style=flat-square&logo=opera&logoColor=fff)
