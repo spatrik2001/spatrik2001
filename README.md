@@ -37,6 +37,6 @@ In the current situation, I only know HTML, CSS and JavaScript, but if I have fr
 ![harmatosbikafing's github stats](https://github-readme-stats.vercel.app/api?username=harmatosbikafing&show_icons=true&theme=radical)
 
 ## 🔭 I’m currently working on ...
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harmatosbikafing&repo=webpage&show_owner&theme=dracula)](https://github.com/harmatosbikafing/webpage)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harmatosbikafing&repo=spacey&show_owner&theme=dracula)](https://github.com/harmatosbikafing/spacey)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harmatosbikafing&layout=compact&theme=dracula)](https://github.com/harmatosbikafing/webpage)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harmatosbikafing&layout=compact&theme=dracula)](https://github.com/harmatosbikafing/spacey)
