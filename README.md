@@ -27,16 +27,16 @@
 ![C++](https://img.shields.io/badge/_-C/C++-292e33?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 
-Hi stranger, welcome to the circ... i mean, welcome to harmatosbikafing's github page. (which is basically a circus :circus_tent:)
+Hi stranger, welcome to the circ... i mean, welcome to spatrik2001's github page. (which is basically a circus :circus_tent:)
 
 I'm a 20 years old Hungarian guy who is interested in programming and web development. My birthday is in 7th June.<br>
 My hometown is Győr, which is in northwest Hungary and the capital of Győr-Moson-Sopron county.<br>
 My goal is to settle down in a job which contains programming. 🤔<br>
 In the current situation, I only know HTML, CSS and JavaScript, but if I have free time after school, I'm trying to improve my skills or knowledge about that. :angel:<br>
 
-![harmatosbikafing's github stats](https://github-readme-stats.vercel.app/api?username=harmatosbikafing&show_icons=true&theme=radical)
+![harmatosbikafing's github stats](https://github-readme-stats.vercel.app/api?username=spatrik2001&show_icons=true&theme=radical)
 
 ## 🔭 I’m currently working on ...
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=harmatosbikafing&repo=spacey&show_owner&theme=dracula)](https://github.com/harmatosbikafing/spacey)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=spatrik2001&repo=spacey&show_owner&theme=dracula)](https://github.com/spatrik2001/spacey)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harmatosbikafing&layout=compact&theme=dracula)](https://github.com/harmatosbikafing/spacey)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spatrik2001&layout=compact&theme=dracula)](https://github.com/spatrik2001/spacey)
