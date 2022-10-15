@@ -16,9 +16,9 @@
 ![CSS3](https://img.shields.io/badge/_-CSS3-292e33?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/_-Bootstrap-292e33?style=flat-square&logo=bootstrap)
 ![JavaScript](https://img.shields.io/badge/_-JavaScript-292e33?style=flat-square&logo=javascript&logoColor=fff)
+![Node.js](https://img.shields.io/badge/_-Node.js-292e33?style=flat-square&logo=node.js&logoColor=white)
 
 ![jQuery](https://img.shields.io/badge/_-jQuery-292e33?style=flat-square&logo=jQuery&logoColor=fff)
-![Node.js](https://img.shields.io/badge/_-Node.js-292e33?style=flat-square&logo=node.js&logoColor=white)
 ![Sass](https://img.shields.io/badge/_-Sass-292e33?style=flat-square&logo=sass&logoColor=white)
 ![PHP](https://img.shields.io/badge/_-PHP-292e33?style=flat-square&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/_-Java-292e33?style=flat-square&logo=java&logoColor=white)
@@ -29,10 +29,10 @@
 
 Hi stranger, welcome to the circ... i mean, welcome to spatrik2001's github page. (which is basically a circus :circus_tent:)
 
-I'm a 20 years old Hungarian guy who is interested in programming and web development. My birthday is in 7th June.<br>
+I'm a 21 years old Hungarian guy who is interested in programming and web development. My birthday is in 7th June.<br>
 My hometown is Győr, which is in northwest Hungary and the capital of Győr-Moson-Sopron county.<br>
 My goal is to settle down in a job which contains programming. 🤔<br>
-In the current situation, I only know HTML, CSS and JavaScript, but if I have free time after school, I'm trying to improve my skills or knowledge about that. :angel:<br>
+In the current situation, I only know Frontend development and some backend language like node.js, but if I have free time after school, I'm trying to improve my skills or knowledge about that. :angel:<br>
 
 ![harmatosbikafing's github stats](https://github-readme-stats.vercel.app/api?username=spatrik2001&show_icons=true&theme=radical)
 
