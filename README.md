@@ -35,7 +35,7 @@
 
 Hi stranger, welcome to the circ... i mean, welcome to spatrik2001's github page. (which is basically a circus :circus_tent:)
 
-I'm a 22 years old Hungarian guy who is interested in programming and web development. My birthday is in 7th June.<br>
+I'm a 23 years old Hungarian guy who is interested in programming and web development. My birthday is in 7th June.<br>
 My hometown is Győr, which is in northwest Hungary and the capital of Győr-Moson-Sopron county.<br>
 My goal is to settle down in a job which contains programming. 🤔<br>
 In the current situation, I only know Frontend development and some backend language like node.js, but if I have free time between university stuff, I'm trying to improve my skills or knowledge about that. :angel:<br>
@@ -43,6 +43,6 @@ In the current situation, I only know Frontend development and some backend lang
 ![harmatosbikafing's github stats](https://github-readme-stats.vercel.app/api?username=spatrik2001&show_icons=true&theme=radical)
 
 ## 🔭 I’m currently working on ...
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=spatrik2001&repo=Discord-Bot&show_owner&theme=dracula)](https://github.com/spatrik2001/Discord-Bot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=spatrik2001&repo=Discord-Bot&show_owner&theme=dracula)](https://github.com/spatrik2001/Projektmunka-2.)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spatrik2001&layout=compact&theme=dracula)](https://github.com/spatrik2001/Discord-Bot)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spatrik2001&layout=compact&theme=dracula)](https://github.com/spatrik2001/Projektmunka-2.)
