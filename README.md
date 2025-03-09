@@ -43,6 +43,6 @@ In the current situation, I only know Frontend development and some backend lang
 ![harmatosbikafing's github stats](https://github-readme-stats.vercel.app/api?username=spatrik2001&show_icons=true&theme=radical)
 
 ## 🔭 I’m currently working on ...
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=spatrik2001&repo=Discord-Bot&show_owner&theme=dracula)](https://github.com/spatrik2001/Projektmunka-2.)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=spatrik2001&repo=Projektmunka-2.&show_owner&theme=dracula)](https://github.com/spatrik2001/Projektmunka-2.)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spatrik2001&layout=compact&theme=dracula)](https://github.com/spatrik2001/Projektmunka-2.)
